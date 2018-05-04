@@ -1,0 +1,16 @@
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.deps.json
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.deps.json
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\bin\Debug\netstandard1.6\Trabajo.COMMON.pdb
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.dll
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\Trabajo.COMMON\obj\Debug\netstandard1.6\Trabajo.COMMON.pdb

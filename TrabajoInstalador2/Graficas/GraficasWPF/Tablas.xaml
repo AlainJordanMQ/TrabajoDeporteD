@@ -1,0 +1,33 @@
+﻿<Window x:Class="GraficasWPF.Tablas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraficasWPF"
+        mc:Ignorable="d"
+        Background="Chocolate"
+        Title="Tablas" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Row="0">
+            <Label>Deporte</Label>
+            <ComboBox Width="100" x:Name="cmbDeporte"></ComboBox>
+            <Button x:Name="AceptarDeporte" Click="AceptarDeporte_Click">Aceptar Deporte</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1">
+            <Label>Equipo</Label>
+            <ComboBox Width="100" x:Name="cmbEquipo"></ComboBox>
+            <Button x:Name="AceptarEquipo" Click="AceptarEquipo_Click">Aceptar Equipo</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="2">
+            <Button x:Name="btnMostrar" Click="btnMostrar_Click">Mostrar</Button>
+            <TextBox Name="MarFinal" ></TextBox>   
+        </WrapPanel>
+        <DataGrid Width="auto" x:Name="dtgTabla" Grid.Row="3" IsReadOnly="True"/>
+    </Grid>
+</Window>

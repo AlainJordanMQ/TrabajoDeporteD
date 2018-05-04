@@ -1,0 +1,16 @@
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.deps.json
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Desktop\Graficas\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.deps.json
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\bin\Debug\netstandard1.6\GeneradoraDeDatos.pdb
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.AssemblyInfo.cs
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.dll
+C:\Users\Elidio Martinez\Desktop\TrabajoInstalador2\Graficas\GeneradoraDeDatos\obj\Debug\netstandard1.6\GeneradoraDeDatos.pdb
